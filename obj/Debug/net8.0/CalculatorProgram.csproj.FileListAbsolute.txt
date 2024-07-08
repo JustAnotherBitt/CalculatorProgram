@@ -1,0 +1,15 @@
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.exe
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.deps.json
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.runtimeconfig.json
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.dll
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\bin\Debug\net8.0\CalculatorProgram.pdb
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfoInputs.cache
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.AssemblyInfo.cs
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.csproj.CoreCompileInputs.cache
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.sourcelink.json
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.dll
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\refint\CalculatorProgram.dll
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.pdb
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\CalculatorProgram.genruntimeconfig.cache
+C:\INFORMATIC\C#\LittleProjects\CalculatorProgram\obj\Debug\net8.0\ref\CalculatorProgram.dll
