@@ -29,6 +29,10 @@ This is a simple calculator program written in C#. This program allows you to pe
 3. Enter the operation symbol (+, -, *, /) to perform the desired arithmetic operation.
 4. The program will display the result of the operation.
 
+### Example Output
+
+![image](https://github.com/LeRodrigues2005/CalculatorProgram/assets/97632543/0505073b-c640-496d-8723-a2879c043f49)
+
 ### Notes
 - This calculator program accepts numbers formatted with a comma (,) for decimal separation and does not accept numbers with a period (.).
 - Ensure the second number is not zero when performing division to avoid runtime errors.
