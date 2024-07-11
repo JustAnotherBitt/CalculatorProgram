@@ -16,10 +16,20 @@
             Console.WriteLine("Calculator Program");
             Console.WriteLine("------------------");
 
+           
             Console.Write("Enter the first number: ");
-            n1 = Convert.ToDouble(Console.ReadLine());
+            while (!double.TryParse(Console.ReadLine(), out n1))
+            {
+                Console.WriteLine("You must enter a number!!\n");
+                Console.Write("Enter the first number: ");
+            }
+             
             Console.Write("Enter the second number: ");
-            n2 = Convert.ToDouble(Console.ReadLine());
+            while (!double.TryParse(Console.ReadLine(), out n2))
+            {
+                Console.WriteLine("You must enter a number!!\n");
+                Console.Write("Enter the first number: ");
+            }
 
             Console.Write("Enter the operation: ");
             Console.WriteLine("\n\t+ : add\n\t- : subtract\n\t* : multiply\n\t/ : division");
@@ -48,7 +58,7 @@
                     break;
 
                 default:
-                    Console.WriteLine("That is not a valid operation");
+                    Console.WriteLine("That is not a valid operation!! Errors aren't permited here.");
                     break;
             }
 
